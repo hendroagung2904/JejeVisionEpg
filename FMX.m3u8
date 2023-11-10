@@ -457,52 +457,52 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch299%29/index
 <==================== China ====================================>
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",China 1
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://1.bp.blogspot.com/-be2U5uFesLI/VqnzLM0K_GI/AAAAAAAAcNg/xAlQuzoT43A/s1600/xing-kong-tv-logo.png",XingKong
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",China 2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch206%29/index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ZTV-logo.png",Zhejiang TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch208%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="CCTV4" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",CCTV4
+#EXTINF:-1 group-title="China" tvg-id="CCTV4" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Cctv_4_america.png/revision/latest/scale-to-width-down/250?cb=20200119091533",CCTV4
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch209%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",TVB XingHe
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/17/TVB_Xing_He_logo_2017.png/220px-TVB_Xing_He_logo_2017.png",TVB XingHe
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",TVBS
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch215%29/index.m3u8
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png",TVBS
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch216%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",TVBS News
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/TVBSNEWS2008.png/revision/latest?cb=20231003151627",TVBS News Channel
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch217%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",China 3
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/493/487/png-transparent-shenzhen-satellite-tv-logo-digital-on-screen-graphic-local-tv-station-icon-television-text-trademark.png",Shenzen Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch218%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",China 4
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png",Hunan TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch219%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",China 5
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://w7.pngwing.com/pngs/802/368/png-transparent-china-dragon-television-television-channel-television-show-chinese-dragon-television-text-logo.png",Shanghai Dragon TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch220%29/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="",China 6
+#EXTINF:-1 group-title="China" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/regarder-jiangsu-tv.png",Jiangsu TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch221%29/index.m3u8
 
 <=========================== Music ========================>
