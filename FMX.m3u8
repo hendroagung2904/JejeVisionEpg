@@ -1,13 +1,5 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#♦WELCOME MY PLAYLIST♦#", CREATOR BY : INAL
-https://github.com/Arrasyid22/inaldie/raw/main/WELCOM.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#♦WELCOME MY PLAYLIST♦#", JOINT TELEGRAM https://t.me/IPTVcostum
-https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#♦DONASI SUSUN PL♦#", LINK SAWER https://saweria.co/Inaldie22
-https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
-
-
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 1
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 2
